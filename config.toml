@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = ""
 languageCode = "en"
-title = "Ninyy"
+title = "Mxtwo"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -94,9 +94,9 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "+34963807767"
+email = "mojan@gmail.com"
+location = "C. de Jesús, 52, 46007 València, Valencia, Spain"
 # copyright
 copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
