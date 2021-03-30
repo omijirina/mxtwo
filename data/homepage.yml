@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
+  title : "Crema antiedad textura ligera"
   content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
   image : "images/banner.png"
   # button
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
+  content : "La Crema Antienvejecimiento Sublimage de textura aireada, extraordinariamente ligera y sedosa es la solución ideal para el cuidado de las pieles envejecidas con tendencia a un exceso de grasa. Desarrollado en el laboratorio de Chanel, este producto innovador lucha activamente contra los procesos negativos de envejecimiento de las células de la piel, dando un resultado rejuvenecedor visible desde la primera aplicación: la piel se vuelve más elástica, adquiere un color uniforme y un brillo asombroso."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "Cómo utilizar el producto?"
-  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
+  content : "Aplicar por la mañana y / o por la noche sobre la piel completamente limpia. Con las yemas de los dedos, extiéndalo por todo el rostro y el cuello, luego alise desde el centro del rostro hacia la periferia. Para potenciar el efecto de La Creme, se recomienda realizar un masaje Chanel."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,15 +89,8 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "Gracias a todos los que escriben reseñas. Hacemos menos compras que nos decepcionarán. Me decidí y compré esta crema. Clase. Placeres del mar. Menos efecto que placer"
       rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Ana Pankara"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
-      rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
@@ -110,5 +103,5 @@ testimonial:
     - name : "Kalista Tankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
+      content : "La crema es ligera, delicada, fragante. Huele a vainilla muy hermosa, se absorbe rápidamente y da mucho placer de uso."
       rating : "four" # rating star, one to five
