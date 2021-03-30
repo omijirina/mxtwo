@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://mxtwo.vercel.app/"
 languageCode = "en"
 title = "Mxtwo"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+34963807767"
 email = "mojan@gmail.com"
 location = "C. de Jesús, 52, 46007 València, Valencia, Spain"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://mxtwo.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
